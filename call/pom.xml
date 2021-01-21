@@ -22,7 +22,7 @@
 		<!-- mysql连接版本 -->
 		<mysql-version>5.1.45</mysql-version>
 		<!-- jackson版本 -->
-		<jackson-version>2.9.4</jackson-version>
+		<jackson-version>2.12.1</jackson-version>
 	</properties>
 
 	<dependencies>
