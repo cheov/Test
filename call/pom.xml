@@ -12,7 +12,7 @@
 		<!-- jdk版本 -->
 		<java-version>1.8</java-version>
 		<!-- spring版本 -->
-		<org.springframework-version>4.3.7.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.20.RELEASE</org.springframework-version>
 		<!-- 切点版本 -->
 		<org.aspectj-version>1.8.1</org.aspectj-version>
 		<!-- 日志版本 -->
